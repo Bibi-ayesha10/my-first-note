@@ -1,13 +1,27 @@
 # Java and OOP
 
-## Topic
-Write today’s topic here.
+## Topic: Classes and Objects
+
+A class is a blueprint that describes what something can have and do.
+An object is one actual thing made from that blueprint.
 
 ## Key idea
-Explain it in your own words.
+
+For example, `Student` can be a class. Shabnam can be one `Student` object.
+Each student object can have its own name.
 
 ## Code example
-Add a small Java example.
 
-## Questions
-Write anything you’re unsure about.
+```java
+class Student {
+    String name;
+}
+
+class Main {
+    public static void main(String[] args) {
+        Student student1 = new Student();
+        student1.name = "Shabnam";
+
+        System.out.println(student1.name);
+    }
+}
