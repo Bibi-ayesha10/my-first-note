@@ -23,7 +23,7 @@ class Student {
 class Main {
     public static void main(String[] args) {
         Student student1 = new Student();
-        student1.name = "Shabnam";
+        student1.name = "BiBi Ayesha";
         student1.semester = 3;
 
         student1.introduce();
