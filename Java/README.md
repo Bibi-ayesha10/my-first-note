@@ -34,3 +34,20 @@ class Main {
     }
 }
 ```
+## Topic: Encapsulation
+
+Encapsulation protects an object's data. In Java, `private` fields can only be accessed directly inside their class. Public methods provide controlled access.
+
+```java
+class Student {
+    private String name;
+
+    public void setName(String newName) {
+        name = newName;
+    }
+
+    public String getName() {
+        return name;
+    }
+}
+```
