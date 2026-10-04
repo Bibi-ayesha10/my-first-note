@@ -1,11 +1,16 @@
-# My First Notes
+# Hi, I'm Bibi Ayesha 👋
 
-I’m learning GitHub and saving my study notes here.
+🎓 Engineering student  
+🌱 Currently learning Java, OOP, Data Structures and Algorithms  
+💻 Practising Git and GitHub  
+📚 Interested in building projects and learning new skills
 
-## What I’m studying
+## What I'm learning
 
-- Java and OOP
+- Java and Object-Oriented Programming
 - Data Structures and Algorithms
-- Operating Systems
-- Probability and Statistics
-- DDCO
+- Git and GitHub
+
+## My study notes
+
+See my [Java and Maths notes](https://github.com/Bibi-ayesha10/my-first-note).
